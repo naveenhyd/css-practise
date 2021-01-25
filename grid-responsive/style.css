@@ -3,6 +3,11 @@
 	--main-padding: 5px;
 }
 
+body {
+	max-width: 1200px;
+	margin: auto;
+}
+
 .container {
 	display: grid;
 	height: 98vh;
