@@ -2,6 +2,8 @@
 
 ## CSS GRID
 
+URL: https://naveenhyd.github.io/css-practise/
+
 #### Desktop
 ![Screenshot](grid-responsive/output/desktop.png)
 
